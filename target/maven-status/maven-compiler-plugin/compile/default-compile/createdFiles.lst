@@ -1,7 +1,0 @@
-com\mark\miranda\exam\controller\BookController.class
-com\mark\miranda\exam\service\BookService.class
-com\mark\miranda\exam\entity\BookDto.class
-com\mark\miranda\exam\ExamApplication.class
-com\mark\miranda\exam\controller\response\GeneralResponse.class
-com\mark\miranda\exam\repository\BookRepository.class
-com\mark\miranda\exam\entity\Book.class
